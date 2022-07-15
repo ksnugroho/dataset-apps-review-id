@@ -18,7 +18,8 @@ The dataset consists of 10,854 rows and 12 columns. Columns consist of review id
 - Snapchat (com.snapchat.android)
 
 ## Citation
-If you want to publish a paper using this dataset, please cite our publication: <br/>
+If you want to publish a paper using this dataset, please cite our publication (https://dl.acm.org/doi/abs/10.1145/3479645.3479679): <br/>
+```
 @inbook{10.1145/3479645.3479679,
 author = {Nugroho, Kuncahyo Setyo and Sukmadewa, Anantha Yullian and Wuswilahaken DW, Haftittah and Bachtiar, Fitra A. and Yudistira, Novanto},
 title = {BERT Fine-Tuning for Sentiment Analysis on Indonesian Mobile Apps Reviews},
@@ -32,6 +33,7 @@ booktitle = {6th International Conference on Sustainable Information Engineering
 pages = {258–264},
 numpages = {7}
 }
+```
 
 ## License
 <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png" /></a><br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License</a>.
