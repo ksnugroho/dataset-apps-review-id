@@ -1,9 +1,9 @@
-# Dataset apps reviews of Indonesian.
+# Indonesian Mobile Apps Review Dataset
 
 The dataset was taken using scrapping on the ten best applications in 2020 in Google Play (monthly active user Jan - Oct 2020). 
 
 ## Data Format
-The dataset consists of 10,854 rows and 12 columns. Columns consist of review id, username, user image, content, score, thumbs up count, review version, review date, reply content, replied at, sort order, and app id. The content column contains user reviews, while the app id column shows the application.
+The dataset consists of 10,854 rows and 12 columns. Columns consist of `reviewId`, `userName`, `userImage`, `content`, `score`, `thumbsUpCount`, `reviewCreatedVersion`, `at`, `replyContent`, `repliedAt`, `sortOrder`, and `appId`. The `content` column contains user reviews, while the `appId` column shows the application id.
 
 ## Apps list
 Facebook, WhatsApp, Messenger, Instagram, Amazon, Twitter, Netflix, Tiktok, Spotify, Snapchat
